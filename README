@@ -1,0 +1,4 @@
+This is a bundle of VIM additions to support syntax highlighting
+of MAGICAL II macros used in VnmrJ.
+
+Vundle is the recommended bundle management software.

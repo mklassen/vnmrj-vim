@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:	MAGICALL II
-" Maintainer:	Martyn Klassen <mklassen@irus.rri.on.ca>
+" Maintainer:	Martyn Klassen <mklassen@robarts.ca>
 "		Original author: Martyn Klassen
 " Last Change:	Tue Jun 18 16:27:44 EDT 2002
 
